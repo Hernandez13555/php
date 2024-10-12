@@ -23,4 +23,3 @@ if ($a > $b){
     echo "$a es mayor que $b pero es menor que $c";
   }
 }
-

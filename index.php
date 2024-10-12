@@ -13,3 +13,4 @@
 <a href="Condicionales_simples.php">Condicionales simples</a>
 <a href="Condicionales_dobles.php">Condicionales dobles</a>
 <a href="Condicionales_anidados.php">Condicionales anidados</a>
+<a href="Switch.php">Switch</a>
