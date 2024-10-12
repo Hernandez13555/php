@@ -9,3 +9,7 @@
 <a href="asignacion_por_referencia.php">Asignacion por referencia</a>
 <a href="operadores_de_comparacion.php">Operadores de comparacion</a>
 <a href="operadores_logicos.php">Operadores logicos</a>
+<a href="incremento_decremento.php">incremento  y decremento</a>
+<a href="Condicionales_simples.php">Condicionales simples</a>
+<a href="Condicionales_dobles.php">Condicionales dobles</a>
+<a href="Condicionales_anidados.php">Condicionales anidados</a>

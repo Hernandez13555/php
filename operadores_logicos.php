@@ -27,7 +27,7 @@ echo "<br>";
 var_dump($valor1 = 7 && 9 > 3);
 
 /**
- * ----------Tabla de operador or
+ * --------------------Tabla de operador or
  * Exprecion 1                  Exprecion 2                  Resultado
  * False           ||           False                        False
  * False           ||           True                         True
@@ -40,3 +40,12 @@ echo "<br>";
 var_dump($valor1 == 5 || 9 > 3);
 echo "<br>";
 var_dump($valor1 == 5 || 1 > 3);
+
+/**
+ * --------------------Tabla de operador NOT
+ * Exprecion 1                  Resultado
+ * False                        True
+ * True                         False
+ */
+
+var_dump(!($valor1 >= $valor1));
