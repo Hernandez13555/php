@@ -1,7 +1,6 @@
 <?php
 
-print_r($_REQUEST["checkbox"]);
-print_r($_REQUEST["nombre"]);
+echo count($_REQUEST["checkbox"]);
 
 $nombre = "";
 $apellido = "";
