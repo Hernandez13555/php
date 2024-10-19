@@ -14,3 +14,4 @@
 <a href="Condicionales_dobles.php">Condicionales dobles</a>
 <a href="Condicionales_anidados.php">Condicionales anidados</a>
 <a href="Switch.php">Switch</a>
+<a href="Bucle_while.php">Bucle while</a>
