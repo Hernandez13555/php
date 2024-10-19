@@ -17,15 +17,17 @@
 
 function esPrimo($numero) {
   $a = 2;
-  while($a <= $numero) {
+  $primo = true;
+  while($a < $numero/2 && $primo) {
     if($numero % $a == 0) {
-
+      $primo = false;
     }
     $a++; 
   }
-  return true;
+  return $primo;
 }
-
-$primo = esPrimo(27) ? "Si": "No";
-
+$primo = esPrimo(12) ? "Si": "No";
 echo $primo;
+
+
+
