@@ -1,3 +1,3 @@
 <?php
 
-include_once ("SinVocales.php");
+include_once ("silabas.php");
